@@ -1,0 +1,7 @@
+.directory
+.*.swp
+.*~
+Les_pdf/*
+.viminfo
+.kk.log
+laurent/pictures

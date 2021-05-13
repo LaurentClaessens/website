@@ -1,0 +1,22 @@
+p { color: black; } 
+header { color: black; } 
+
+#featured {
+  background: #fff;
+  margin-bottom: 2em;
+  overflow: hidden;
+  padding: 20px;
+  width: 1000px;
+ 
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+
+#featured figure {
+  border: 2px solid #eee;
+  float: right;
+  margin: 0.786em 2em 0 5em;
+  width: 248px;
+}
+#featured figure img {display: block; float: right;}
