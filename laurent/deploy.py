@@ -9,6 +9,8 @@ import dirmanage
 
 dprint = print
 
+REMOTE = "claessenvs@ftp.cluster003.hosting.ovh.net"
+
 
 def md_to_body(md_filename):
     """Return the body section of a html code from a markdown file."""
@@ -70,10 +72,16 @@ def create_batchfile():
         print(f"save: {batch_filename}")
 
 
+def copy_ovh():
+    """Send the whole to ovh."""
+    subprocess.call(['sftp', '-b', 'batchfile', REMOTE])
+
+
 def do_work():
     """Do the work."""
     fill_builds()
     create_batchfile()
+    copy_ovh()
 
 
 do_work()
