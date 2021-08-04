@@ -1,4 +1,5 @@
 pdf_immutables/*
 venv/
 builds/
+__pycache__
 *~
