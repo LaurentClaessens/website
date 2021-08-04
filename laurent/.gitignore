@@ -1,1 +1,4 @@
 pdf_immutables/*
+venv/
+builds/
+*~
