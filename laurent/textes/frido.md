@@ -1,49 +1,15 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" >
-   <head>
-       <title>Le Frido</title>
-       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-       <link rel="stylesheet" media="screen" type="text/css" title="feuille de style" href="style.css" />       
-   </head>
 
-   <body>
-<h1>Enseignement du niveau universitaire : Le Frido</h1>
+# Enseignement du niveau universitaire : Le Frido
 
-<p><a href="pdf/lefrido.pdf">Le Frido</a> contient des mathématiques du niveau de l'agrégation; il recouvre à peu près tout le programme en tentant de tenir une cohérence des notations d'un bout à l'autre (pas d'abus de notations que le lecteur devrait deviner) tout en restant clair et très complet dans les démonstrations. Pas de trous que le lecteur devrait combler lui-même, rien n'est a priori considéré comme évident.
-</p>
+[Le Frido](pdf/lefrido.pdf) contient des mathématiques du niveau de l'agrégation; il recouvre à peu près tout le programme en tentant de tenir une cohérence des notations d'un bout à l'autre (pas d'abus de notations que le lecteur devrait deviner) tout en restant clair et très complet dans les démonstrations. Pas de trous que le lecteur devrait combler lui-même, rien n'est a priori considéré comme évident.
 
-<h2>Le Frido la version courante</h2>
+## Le Frido la version courante
 
-La version courante, mise à jour régulièrement est ici : <a href="pdf/lefrido.pdf">lefrido.pdf</a>. À moins que vous ayez une bonne raison (agrégation), c'est de cette version que vous avez besoin.
+La version courante, mise à jour régulièrement est ici : [lefrido.pdf](pdf/lefrido.pdf). À moins que vous ayez une bonne raison (agrégation), c'est de cette version que vous avez besoin.
 
-<h2>Le Frido 2020</h2>
+## Versions "publiées"
 
-Si vous avez une bonne raison de vouloir acheter du papier, voici la version 2020.
-   
-<h3>Téléchargement</h3>
-
-Vous pouvez télécharger la version 2020 soit en un seul pdf, soit tels que vendus séparément.
-
-<ul>
-    <li>
-        Le frido 2020 <a href="pdf/Frido2020/lefrido2020.pdf">en un fichier</a>.
-    </li>
-    <li>
-        En fichiers séparés : <a href="pdf/Frido2020/book_2020_1_thebookedition.pdf">book_2020_1_thebookedition.pdf</a>, <a href="pdf/Frido2020/book_2020_2_thebookedition.pdf">book_2020_2_thebookedition.pdf</a>, <a href="pdf/Frido2020/book_2020_3_thebookedition.pdf">book_2020_3_thebookedition.pdf</a>, <a href="pdf/Frido2020/book_2020_4_thebookedition.pdf">book_2020_4_thebookedition.pdf</a>.
-    </li>
-</ul>
-
-<h3>Achat</h3>
-
-        <a href="https://www.thebookedition.com/fr/le-frido-2020-volume-1-p-377484.html">thebookedition 1</a>, 
-        <a href="https://www.thebookedition.com/fr/le-frido-2020-volume-2-p-377488.html">thebookedition 2</a>, 
-        <a href="https://www.thebookedition.com/fr/le-frido-2020-volume-3-p-377486.html">thebookedition 3<a/>,
-        <a href="https://www.thebookedition.com/fr/le-frido-2020-volume-4-p-377487.html">thebookedition 4</a>. 
-
-<h3>Erratum</h3>
-
-Des erreurs son trouvées de temps en temps dans les versions vendues. Ne pas oublier de consulter régulièrement <a href="https://github.com/LaurentClaessens/mazhe/blob/master/erratum.md">l'erratum</a>.
-
+- [Le Frido 2020](frido_2020.html)
 
 
 <h2>Le Frido 2019</h2>
