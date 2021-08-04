@@ -38,8 +38,8 @@ def copy_to_build(filename):
     shutil.copy(filename, dst)
 
 
-def do_work():
-    """Do the work."""
+def fill_builds():
+    """Make markdown -> html and copy the html files to `builds`."""
     textes_dir = dirmanage.init_dir / "textes"
     for elem in textes_dir.iterdir():
         if elem.suffix == ".html":
@@ -53,6 +53,27 @@ def do_work():
             with open(new_filepath, 'w') as new_file:
                 new_file.write(html_code)
             continue
+
+
+def create_batchfile():
+    skel = open("batchfile.skel", 'r').read()
+    put_html_list = []
+    for filename in dirmanage.builds_dir.iterdir():
+        put_html_list.append(f"put {filename}")
+
+    put_html = "\n".join(put_html_list)
+    text = skel.replace("__PUT_HTML__", put_html)
+
+    batch_filename = "batchfile"
+    with open(batch_filename, 'w') as batchfile:
+        batchfile.write(text)
+        print(f"save: {batch_filename}")
+
+
+def do_work():
+    """Do the work."""
+    fill_builds()
+    create_batchfile()
 
 
 do_work()

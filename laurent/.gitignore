@@ -3,3 +3,4 @@ venv/
 builds/
 __pycache__
 *~
+batchfile
