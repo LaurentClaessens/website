@@ -1,9 +1,9 @@
 
 # Enseignement du niveau universitaire : Le Frido
 
-[Le Frido](pdf/lefrido.pdf) contient des mathématiques du niveau de l'agrégation; il recouvre à peu près tout le programme en tentant de tenir une cohérence des notations d'un bout à l'autre (pas d'abus de notations que le lecteur devrait deviner) tout en restant clair et très complet dans les démonstrations. Pas de trous que le lecteur devrait combler lui-même, rien n'est a priori considéré comme évident.
+[Le Frido](pdf/lefrido.pdf) contient des mathématiques du niveau de l'agrégation; il recouvre à peu près tout le programme en tentant de tenir une cohérence des notations d'un bout à l'autre.
 
-## Le Frido la version courante
+## La version courante
 
 La version courante, mise à jour régulièrement est ici : 
 
@@ -45,6 +45,7 @@ Disons-le clairement : pour de nombreux candidats, même 100 euros c'est beaucou
 
 Je ne pense pas qu'il faille être de trop grande mauvaise foi pour dire que le principe d'équité financière interdit les ouvrages publiés chez les éditeurs traditionnels.
 
+En tout cas, si l'équité financière est un objectif, il faudrait réellement se poser la question de la prédominance des livres commerciaux dans le fonctionnement de l'agrégation.
 
 ### Les valises de livres
 
