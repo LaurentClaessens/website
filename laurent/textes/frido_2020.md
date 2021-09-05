@@ -16,12 +16,7 @@ Vous pouvez télécharger la version 2020 soit en un seul pdf, soit tels que ven
 
 ### Achat
 
-Pour acheter Le Frido :
-
-- [thebookedition 1](https://www.thebookedition.com/fr/le-frido-2020-volume-1-p-377484.html)
-- [thebookedition 2](https://www.thebookedition.com/fr/le-frido-2020-volume-2-p-377488.html)
-- [thebookedition 3](https://www.thebookedition.com/fr/le-frido-2020-volume-3-p-377486.html)
-- [thebookedition 4](https://www.thebookedition.com/fr/le-frido-2020-volume-4-p-377487.html) 
+Le Frido 2020 n'est plus en vente. Allez voir la version plus récente.
 
 ### Erratum
 

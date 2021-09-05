@@ -13,6 +13,7 @@ La version courante, mise à jour régulièrement est ici :
 
 ## Versions "publiées"
 
+- [Le Frido 2021](frido_2021.html)
 - [Le Frido 2020](frido_2020.html)
 
 
